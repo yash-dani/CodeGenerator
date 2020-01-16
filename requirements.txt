@@ -1,0 +1,2 @@
+pyrebase==3.0.27
+firebase_admin==3.0.0
